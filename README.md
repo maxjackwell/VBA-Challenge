@@ -14,6 +14,6 @@ The following links are where I got my information from:
   https://excelchamps.com/vba/loop-sheets/
   
 This information I used for the following:
-  Showing certain figures as a Percentage, and to the correct decimal place
-  Finding the ticker name associated with the key metrics, and printing it in the Summary section
-  Looping my work through all of the worksheets
+  Showing certain figures as a Percentage, and to the correct decimal place.
+  Finding the ticker name associated with the key metrics, and printing it in the Summary section.
+  Looping my work through all of the worksheets.
